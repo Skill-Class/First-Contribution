@@ -15,11 +15,7 @@ After forking, if you are willing to commit small text changes, then github edit
 If you want commit major changes or change the source code<br>
 To do that, you need to clone the repository created on your profile locally.<br>
 Here you can find the clone option<br>
-<img src="https://blogs.sap.com/wp-content/uploads/2019/07/2019-07-12_11-18-03.jpg">siva shankar
-sanjay
-vignesh
-akhil
-pavithran
+<img src="https://blogs.sap.com/wp-content/uploads/2019/07/2019-07-12_11-18-03.jpg"><br>
 Copy the link, open github CLI or any of your preferred CLI,<br>
 Then type git clone ***link***
 
